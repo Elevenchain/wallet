@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[elevenchain.elevenchain_ents]
+file_filter = src/qt/locale/elevenchain_<lang>.ts
+source_file = src/qt/locale/elevenchain_en.xlf
+source_lang = en

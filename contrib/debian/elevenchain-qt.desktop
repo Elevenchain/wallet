@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=elevenchain Core
+Comment=elevenchain P2P Cryptocurrency
+Comment[de]=Verbinde mit dem elevenchain peer-to-peer Netzwerk
+Comment[fr]=elevenchain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=elevenchain, eşten eşe kriptografik sanal para birimi
+Exec=elevenchain-qt %u
+Terminal=false
+Type=Application
+Icon=elevenchain128
+MimeType=x-scheme-handler/elevenchain;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=elevenchain-qt

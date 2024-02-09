@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/elevenchain_ar.ts \
+  qt/locale/elevenchain_bg.ts \
+  qt/locale/elevenchain_de.ts \
+  qt/locale/elevenchain_en.ts \
+  qt/locale/elevenchain_es.ts \
+  qt/locale/elevenchain_fi.ts \
+  qt/locale/elevenchain_fr.ts \
+  qt/locale/elevenchain_it.ts \
+  qt/locale/elevenchain_ja.ts \
+  qt/locale/elevenchain_ko.ts \
+  qt/locale/elevenchain_nl.ts \
+  qt/locale/elevenchain_pl.ts \
+  qt/locale/elevenchain_pt.ts \
+  qt/locale/elevenchain_ro.ts \
+  qt/locale/elevenchain_ru.ts \
+  qt/locale/elevenchain_sk.ts \
+  qt/locale/elevenchain_th.ts \
+  qt/locale/elevenchain_tr.ts \
+  qt/locale/elevenchain_vi.ts \
+  qt/locale/elevenchain_zh_CN.ts \
+  qt/locale/elevenchain_zh_TW.ts

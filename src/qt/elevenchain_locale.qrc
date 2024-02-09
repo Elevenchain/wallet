@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/elevenchain_ar.qm</file>
+        <file alias="bg">locale/elevenchain_bg.qm</file>
+        <file alias="de">locale/elevenchain_de.qm</file>
+        <file alias="en">locale/elevenchain_en.qm</file>
+        <file alias="es">locale/elevenchain_es.qm</file>
+        <file alias="fi">locale/elevenchain_fi.qm</file>
+        <file alias="fr">locale/elevenchain_fr.qm</file>
+        <file alias="it">locale/elevenchain_it.qm</file>
+        <file alias="ja">locale/elevenchain_ja.qm</file>
+        <file alias="ko">locale/elevenchain_ko.qm</file>
+        <file alias="nl">locale/elevenchain_nl.qm</file>
+        <file alias="pl">locale/elevenchain_pl.qm</file>
+        <file alias="pt">locale/elevenchain_pt.qm</file>
+        <file alias="ro">locale/elevenchain_ro.qm</file>
+        <file alias="ru">locale/elevenchain_ru.qm</file>
+        <file alias="sk">locale/elevenchain_sk.qm</file>
+        <file alias="th">locale/elevenchain_th.qm</file>
+        <file alias="tr">locale/elevenchain_tr.qm</file>
+        <file alias="vi">locale/elevenchain_vi.qm</file>
+        <file alias="zh_CN">locale/elevenchain_zh_CN.qm</file>
+        <file alias="zh_TW">locale/elevenchain_zh_TW.qm</file>
+    </qresource>
+</RCC>

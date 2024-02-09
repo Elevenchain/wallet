@@ -1,0 +1,6 @@
+usr/local/bin/elevenchain-qt usr/bin
+share/pixmaps/elevenchain32.xpm usr/share/pixmaps
+share/pixmaps/elevenchain16.xpm usr/share/pixmaps
+share/pixmaps/elevenchain128.png usr/share/pixmaps
+debian/elevenchain-qt.desktop usr/share/applications
+debian/elevenchain-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,65 @@
+Source: elevenchain
+Section: utils
+Priority: optional
+Maintainer: Holger Schinzel <holger@elevenchain.org>
+Uploaders: Holger Schinzel <holger@elevenchain.org>
+Build-Depends: debhelper,
+ devscripts,
+ automake,
+ libtool,
+ bash-completion,
+ libdb4.8++-dev,
+ pkg-config,
+ libevent-dev,
+ libboost-filesystem1.48-dev | libboost-filesystem-dev (>> 1.47),
+ libboost-thread1.48-dev | libboost-thread-dev (>> 1.47),
+ libboost-test1.48-dev | libboost-test-dev (>> 1.47),
+ libminiupnpc8-dev | libminiupnpc-dev,
+ qt4-qmake, libqt4-dev,
+ qttools5-dev-tools, qttools5-dev,
+ libqrencode-dev,
+ python,
+ libzmq3-dev
+Standards-Version: 3.9.2
+Homepage: https://www.elevenchain.org/
+Vcs-Git: git://github.com/elevenchainpay/elevenchain.git
+Vcs-Browser: https://github.com/Elevenchain
+
+Package: elevenchaind
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer network based digital currency - daemon
+ elevenchain is an experimental new digital currency that enables instant, private
+ payments to anyone, anywhere in the world. elevenchain uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. elevenchain Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides the daemon, elevenchaind, and the CLI tool
+ elevenchain-cli to interact with the daemon.
+
+Package: elevenchain-qt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer network based digital currency - Qt GUI
+ elevenchain is an experimental new digital currency that enables instant, private
+ payments to anyone, anywhere in the world. elevenchain uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. elevenchain Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides elevenchain-Qt, a GUI for elevenchain based on Qt.
+
+Package: elevenchain-tx
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: peer-to-peer digital currency - standalone transaction tool
+ elevenchain is an experimental new digital currency that enables instant, private
+ payments to anyone, anywhere in the world. elevenchain uses peer-to-peer
+ technology to operate with no central authority: managing transactions
+ and issuing money are carried out collectively by the network. elevenchain Core
+ is the name of the open source software which enables the use of this currency.
+ .
+ This package provides elevenchain-tx, a command-line transaction creation
+ tool which can be used without a elevenchain daemon.  Some means of
+ exchanging minimal transaction data with peers is still required.
