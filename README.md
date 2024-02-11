@@ -15,11 +15,7 @@ Further information about elevenchain Core is available in the [doc folder](/doc
 What is elevenchain?
 -------------
 
-elevenchain is an experimental digital currency that enables instant, private
-payments to anyone, anywhere in the world. elevenchain uses peer-to-peer technology
-to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. elevenchain Core is the name of the open
-source software which enables the use of this currency.
+ElevenChain was born out of our dissatisfaction with existing cryptocurrencies. We found that many cryptocurrencies suffer from issues such as slow transaction speeds, network congestion, and high energy consumption. Therefore, we decided to develop a new type of cryptocurrency to address these problems.
 
 
 For more information read the original elevenchain whitepaper.
