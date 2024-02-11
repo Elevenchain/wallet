@@ -18,7 +18,13 @@ What is elevenchain?
 ElevenChain was born out of our dissatisfaction with existing cryptocurrencies. We found that many cryptocurrencies suffer from issues such as slow transaction speeds, network congestion, and high energy consumption. Therefore, we decided to develop a new type of cryptocurrency to address these problems.
 
 
-For more information read the original elevenchain whitepaper.
+Technical Features
+-------------
+ElevenChain adopts the X11 algorithm, an advanced algorithm introduced by Dash. The X11 algorithm enhances block generation security by combining multiple hash functions while reducing mining energy consumption. This makes ElevenChain an environmentally friendly and efficient cryptocurrency.
+
+
+
+
 
 License
 -------
