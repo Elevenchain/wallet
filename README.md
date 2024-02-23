@@ -5,10 +5,10 @@ elevenchain Core staging tree 18.0
 |-|-|-|
 |Gitlab|[![Build Status](https://gitlab.com/elevenchainpay/elevenchain/badges/master/pipeline.svg)](https://gitlab.com/elevenchainpay/elevenchain/-/tree/master)|[![Build Status](https://gitlab.com/elevenchainpay/elevenchain/badges/develop/pipeline.svg)](https://gitlab.com/elevenchainpay/elevenchain/-/tree/develop)|
 
-https://www.elevenchain.org
+https://www.elevenchain.com
 
 For an immediately usable, binary version of the elevenchain Core software, see
-https://www.elevenchain.org/downloads/.
+https://github.com/Elevenchain/wallet/releases/tag/V1.1
 
 Further information about elevenchain Core is available in the [doc folder](/doc).
 
